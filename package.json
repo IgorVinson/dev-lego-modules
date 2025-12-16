@@ -9,9 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@stripe/stripe-js": "^8.6.0",
     "next": "16.0.10",
+    "notion-client": "^7.7.1",
+    "notion-types": "^7.7.1",
     "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react-dom": "19.2.1",
+    "react-notion-x": "^7.7.1",
+    "stripe": "^20.0.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
